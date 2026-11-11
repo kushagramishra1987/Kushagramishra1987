@@ -1,0 +1,6 @@
+{
+  "name": "PopCraft - Local Pop-up Services & Booking",
+  "description": "Discover and instantly book hyper-local pop-up services, mobile craftspeople, and neighborhood specialists near you.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
